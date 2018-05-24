@@ -1,4 +1,4 @@
-# 2048
+# 2048小游戏
 
 ![2048](https://oversea-ci.daocloud.io/api/badge/build/daocloud/dao-2048)
 
